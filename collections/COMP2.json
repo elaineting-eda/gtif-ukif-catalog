@@ -1,6 +1,7 @@
 {
   "Name": "COMP2",
   "Title": "UHI and land cover relationship",
+  "CollectionGroup": "Land Cover",
   "Themes": [
     "sustainable-cities"
   ],

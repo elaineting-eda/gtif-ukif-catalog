@@ -1,6 +1,7 @@
 {
   "Name": "COMP1",
   "Title": "UHI and Building Efficiency Ratings",
+  "CollectionGroup": "Building Efficiency Ratings",
   "Themes": [
     "sustainable-cities"
   ],
