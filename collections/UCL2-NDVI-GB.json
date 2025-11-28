@@ -1,6 +1,7 @@
 {
   "Name": "UCL2-NDVI-GB",
   "Title": "NDVI (GB)",
+  "CollectionGroup": "Other",
   "Themes": [
     "food-security"
   ],

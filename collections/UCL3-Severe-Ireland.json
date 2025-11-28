@@ -1,6 +1,7 @@
 {
   "Name": "UCL3-Severe-Ireland",
   "Title": "Severe Air Quality (Ireland)",
+  "CollectionGroup": "Other",
   "Themes": [
     "mobility-transition"
   ],

@@ -1,6 +1,7 @@
 {
   "Name": "EDA-methane-UK",
   "Title": "Cheltenham UK",
+  "CollectionGroup": "Other",
   "Themes": [
     "carbon-accounting"
   ],

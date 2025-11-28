@@ -1,6 +1,7 @@
 {
   "Name": "UCL3-Severe-GB",
   "Title": "Severe Air Quality (SE GB)",
+  "CollectionGroup": "Other",
   "Themes": [
     "mobility-transition"
   ],

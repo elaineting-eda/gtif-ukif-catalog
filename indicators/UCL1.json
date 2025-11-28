@@ -1,6 +1,7 @@
 {
   "Name": "UCL1",
   "Title": "Photovoltaic Output",
+  "CollectionGroup": "Other",
   "Themes": [
     "energy-transition"
   ],

@@ -1,6 +1,7 @@
 {
   "Name": "UCL1-France",
   "Title": "Photovoltaic Output France",
+  "CollectionGroup": "Other",
   "Themes": [
     "energy-transition"
   ],

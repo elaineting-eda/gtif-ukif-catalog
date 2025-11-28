@@ -1,6 +1,7 @@
 {
   "Name": "UCL4-albedo",
   "Title": "RGB Albedo Layer (August 2022)",
+  "CollectionGroup": "Other",
   "Themes": [
     "energy-transition"
   ],

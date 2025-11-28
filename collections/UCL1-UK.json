@@ -1,6 +1,7 @@
 {
   "Name": "UCL1-UK",
   "Title": "Photovoltaic Output UK",
+  "CollectionGroup": "Other",
   "Themes": [
     "energy-transition"
   ],

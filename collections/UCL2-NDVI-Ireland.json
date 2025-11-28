@@ -1,6 +1,7 @@
 {
   "Name": "UCL2-NDVI-Ireland",
   "Title": "NDVI (Ireland)",
+  "CollectionGroup": "Other",
   "Themes": [
     "food-security"
   ],
