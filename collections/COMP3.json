@@ -12,7 +12,7 @@
   "Resources": [
     {
       "Name": "VectorTile source",
-      "Style": "https://raw.githubusercontent.com/gtif-ukif/gtif-ukif-assets/refs/heads/main/collections/COMP3/style.json",
+      "Style": "https://raw.githubusercontent.com/gtif-ukif/gtif-ukif-assets/refs/heads/main/collections/COMP3/style_dynamic.json",
       "Bbox": [
         -6.290874,
         53.33398,
