@@ -1,6 +1,6 @@
 {
   "Name": "COMP2",
-  "Title": "UHI and land cover relationship",
+  "Title": "Urban Classes and UHI",
   "CollectionGroup": "Land Cover",
   "Themes": [
     "sustainable-cities"
@@ -25,12 +25,30 @@
           "Url": "https://api.mapbox.com/v4/service-swe-eda.dfpfw6a6/{z}/{x}/{y}.vector.pbf"
         }
       ]
+    },
+    {
+      "Name": "VectorTile source",
+      "TimeEntries": [
+        {
+          "Time": "20230101",
+          "Url": "https://a.tiles.mapbox.com/v4/service-swe.aafaz3pl/{z}/{x}/{y}.vector.pbf"
+        }
+      ]
     }
   ],
   "Colorlegend": {
     "title": "Mean UHI (low/medium/high)",
-    "range": ["rgb(0, 0, 4)", "rgb(81, 18, 124, 0)","rgb(183, 55, 121)","rgb(252, 137, 97)", "rgb(252, 253, 191)"],
-    "domain": [-1, 1]
+    "range": [
+      "rgb(0, 0, 4)",
+      "rgb(81, 18, 124, 0)",
+      "rgb(183, 55, 121)",
+      "rgb(252, 137, 97)",
+      "rgb(252, 253, 191)"
+    ],
+    "domain": [
+      -1,
+      1
+    ]
   },
   "Agency": [
     "ESA"
