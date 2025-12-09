@@ -17,8 +17,8 @@
       "CollectionId": "EDA-methane-poland",
       "ColormapName": "seismic",
       "Rescale": [
-        -0.15,
-        0.15
+        -3,
+        0.5
       ],
       "Assets": [
         "asset"
@@ -41,8 +41,8 @@
   },
   "Colorlegend": {
     "domain": [
-      -0.15,
-      0.15
+      -3,
+      0.5
     ],
     "range": [
       "#00004c",
