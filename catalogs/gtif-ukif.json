@@ -7,8 +7,8 @@
   "default_overlay_layers": "layers/overlays",
   "assets_endpoint": "https://raw.githubusercontent.com/gtif-ukif/assets/main/",
   "collections": [
-    "COMP1",
-    "COMP2",
+    "COMP1_ind",
+    "COMP2_ind",
     "COMP3",
     "COMP5",
     "UCL3-Severe-Ireland",
