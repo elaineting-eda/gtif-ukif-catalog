@@ -1,0 +1,26 @@
+{
+  "Name": "UCL1-albedo-France",
+  "Title": "RGB Albedo Layer France",
+  "CollectionGroup": "Other",
+  "Themes": [
+    "energy-transition"
+  ],
+  "Tags": [
+    "Solar Rural Power"
+  ],
+  "Resources": [
+    {
+      "EndPoint": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/stac/",
+      "Name": "VEDA",
+      "Type": "tiles",
+      "CollectionId": "UCL1-albedo-France",
+      "NoData": 0,
+      "Assets": [
+        "asset"
+      ]
+    }
+  ],
+  "Agency": [
+    "ESA"
+  ]
+}

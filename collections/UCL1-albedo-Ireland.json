@@ -1,6 +1,6 @@
 {
-  "Name": "UCL1-albedo",
-  "Title": "RGB Albedo Layer (August 2022)",
+  "Name": "UCL1-albedo-Ireland",
+  "Title": "RGB Albedo Layer Ireland",
   "CollectionGroup": "Other",
   "Themes": [
     "energy-transition"
@@ -13,8 +13,11 @@
       "EndPoint": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/stac/",
       "Name": "VEDA",
       "Type": "tiles",
-      "CollectionId": "UCL1-albedo",
-      "NoData": 0
+      "CollectionId": "UCL1-albedo-Ireland",
+      "NoData": 0,
+      "Assets": [
+        "asset"
+      ]
     }
   ],
   "Agency": [
