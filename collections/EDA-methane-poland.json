@@ -32,7 +32,7 @@
     "EndPoints": [
       {
         "Identifier": "veda_statistics",
-        "Url": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/raster/collections/UCL3-Severe-Ireland/statistics?assets=asset",
+        "Url": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/raster/collections/EDA-methane-poland/statistics?assets=asset",
         "Method": "POST",
         "EndPoint": "veda_stac",
         "Type": "application/json"

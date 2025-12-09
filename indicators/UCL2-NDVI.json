@@ -1,0 +1,21 @@
+{
+  "Name": "UCL2-NDVI",
+  "Title": "NDVI",
+  "CollectionGroup": "Other",
+  "Themes": ["food-security"],
+  "Tags": ["Drought Analysis/Forecast"],
+  "Description": "NDVI (Normalised DIfference Vegetation Index) has been calculated from the spectral BHR albedos in Red and NIR for the designated area. Tracking the NDVI across months and between years enables us to uncover the trigger dates for the drought.",
+  "Collections": ["UCL2-NDVI-GB", "UCL2-NDVI-Ireland"],
+  "Agency": ["ESA"],
+  "OverlayLayers": [
+    {
+      "id": "MapboxWaterMask",
+      "name": "Water Mask",
+      "Style": "https://raw.githubusercontent.com/gtif-ukif/gtif-ukif-assets/refs/heads/main/collections/MapboxWaterMask/style.json",
+      "url": "https://api.mapbox.com/v4/mapbox.mapbox-streets-v8/{z}/{x}/{y}.mvt",
+      "visible": true,
+      "protocol": "vector-tile",
+      "layers": ["water"]
+    }
+  ]
+}
