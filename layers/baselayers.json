@@ -64,5 +64,30 @@
             "domain": ["Grassland", "Cropland"],
             "scaleType": "categorical"
         }
+    },
+    {
+        "id": "COP-30-DEM-Mosaic",
+        "name": "COP-30 DEM Mosaic",
+        "url": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/raster/collections/COP-30-DEM-Mosaic/items/mosaic_COP30-UK+I+FRv2_cog/tiles/WebMercatorQuad/{z}/{x}/{y}.png?&assets=asset&colormap_name=schwarzwald&rescale=0,1000&nodata=0",
+        "media_type": "image/png",
+        "attribution": "",
+        "protocol": "xyz",
+        "visible": false,
+        "Colorlegend": {
+            "title": "Elevation",
+            "range": [
+                "#aeefd5",
+                "#ebfcb2",
+                "#3eb032",
+                "#699535",
+                "#f4a602",
+                "#921201",
+                "#6f2108",
+                "#7f4c2f",
+                "#adadad",
+                "#e9e7e9"
+            ],
+            "domain": [0, 1000]
+        }
     }
 ]
