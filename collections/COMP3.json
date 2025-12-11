@@ -23,15 +23,7 @@
       "TimeEntries": [
         {
           "Time": "20180101",
-          "Url": "https://api.mapbox.com/v4/service-swe-eda.absbb95r/{z}/{x}/{y}.vector.pbf"
-        },
-        {
-          "Time": "20210101",
-          "Url": "https://api.mapbox.com/v4/service-swe-eda.biw9mka6/{z}/{x}/{y}.vector.pbf"
-        },
-        {
-          "Time": "20230101",
-          "Url": "https://api.mapbox.com/v4/service-swe-eda.5sb55v3m/{z}/{x}/{y}.vector.pbf"
+          "Url": "https://api.mapbox.com/v4/service-swe.dmh6b69w/{z}/{x}/{y}.vector.pbf"
         }
       ]
     }
