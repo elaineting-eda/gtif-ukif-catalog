@@ -15,7 +15,7 @@
       "Name": "VEDA",
       "Type": "tiles",
       "CollectionId": "COMP5",
-      "ColormapName": "rdbu",
+      "ColormapName": "rdbu_r",
       "Rescale": [
         -1,
         1
@@ -31,18 +31,7 @@
       -1,
       1
     ],
-    "range": [
-      "#67001f",
-      "#b51f2e",
-      "#dd7059",
-      "#f7b698",
-      "#fae7db",
-      "#e1ecf3",
-      "#a7cfe4",
-      "#559ec9",
-      "#246aae",
-      "#053061"
-    ],
+    "range": ["#053061", "#246aae", "#559ec9", "#a7cfe4", "#e1ecf3", "#fae7db", "#f7b698", "#dd7059", "#b51f2e", "#67001f"],
     "scaleType": "continuous",
     "tickFormat": ".1f",
     "title": "[°C]"
