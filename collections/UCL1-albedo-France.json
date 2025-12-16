@@ -2,6 +2,7 @@
   "Name": "UCL1-albedo-France",
   "Title": "RGB Albedo Layer France",
   "CollectionGroup": "Other",
+  "Description": "",
   "Themes": [
     "energy-transition"
   ],

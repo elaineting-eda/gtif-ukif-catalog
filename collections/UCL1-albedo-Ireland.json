@@ -2,6 +2,7 @@
   "Name": "UCL1-albedo-Ireland",
   "Title": "RGB Albedo Layer Ireland",
   "CollectionGroup": "Other",
+  "Description": "",
   "Themes": [
     "energy-transition"
   ],
