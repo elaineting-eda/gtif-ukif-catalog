@@ -49,7 +49,7 @@
     {
       "id": "Decarbonizing_Zones",
       "name": "Decarbonizing Zones",
-      "url": "https://workspace-ui-public.gtif-ukif.hub-otc.eox.at/api/public/share/public-8ewn2-19mik/decarbonizing_zones.geojson",
+      "url": "https://workspace-ui-public.gtif-ukif.hub-otc.eox.at/api/public/share/public-8ewn2-19mik/decarbonising_zones.geojson",
       "Style": "https://raw.githubusercontent.com/gtif-ukif/gtif-ukif-assets/refs/heads/main/collections/COMP3/decarbonization_zones_style.json",
       "visible": true,
       "protocol": "GeoJSON source"
@@ -58,7 +58,7 @@
       "id": "overlay_bright",
       "name": "Overlay labels",
       "url": "https://tiles.maps.eox.at/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png",
-      "attribution": "{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }",
+      "Attribution": "{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }",
       "visible": false,
       "protocol": "xyz"
     }
