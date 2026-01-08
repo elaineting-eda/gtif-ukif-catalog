@@ -2,6 +2,7 @@
   "Name": "UCL1-albedo-GB",
   "Title": "RGB Albedo Layer GB",
   "CollectionGroup": "Other",
+  "Description": "",
   "Themes": [
     "energy-transition"
   ],
