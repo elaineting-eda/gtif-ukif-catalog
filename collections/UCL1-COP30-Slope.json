@@ -1,9 +1,13 @@
 {
-  "Name": "",
-  "Title": "",
+  "Name": "UCL1-COP30-Slope",
+  "Title": "COP30 Slope",
   "Description": "",
-  "Themes": [],
-  "Tags": [],
+  "Themes": [
+    "energy-transition"
+  ],
+  "Tags": [
+    "Solar Rural Power"
+  ],
   "DataSource": {
     "Spaceborne": {
       "Satellite": [],
@@ -12,7 +16,9 @@
     "InSitu": [],
     "Other": []
   },
-  "Agency": [],
+  "Agency": [
+    "ESA"
+  ],
   "License": "",
   "Provider": [],
   "Stories": [],
@@ -45,16 +51,7 @@
   "ShortDescription": "",
   "BaseLayers": [],
   "OverlayLayers": [],
-  "MapProjection": {
-    "name": "",
-    "def": "",
-    "extent": [
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
+  "MapProjection": "EPSG:3035",
   "Colorlegend": {
     "title": "",
     "range": [],
@@ -65,7 +62,14 @@
     "markType": "rect"
   },
   "Legend": "",
-  "Resources": [],
+  "Resources": [
+    {
+      "Name": "VEDA",
+      "EndPoint": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/stac/",
+      "Type": "cog",
+      "CollectionId": "UCL1-COP-30-slope"
+    }
+  ],
   "Locations": [],
   "Subcollections": []
 }
