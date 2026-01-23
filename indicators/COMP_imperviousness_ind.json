@@ -1,71 +1,19 @@
 {
-  "Name": "",
-  "Title": "",
-  "Description": "",
-  "Themes": [],
-  "Tags": [],
-  "DataSource": {
-    "Spaceborne": {
-      "Satellite": [],
-      "Sensor": []
-    },
-    "InSitu": [],
-    "Other": []
-  },
-  "Agency": [],
-  "License": "",
-  "Provider": [],
-  "Stories": [],
-  "Citation": {
-    "DOI": "",
-    "Citation": "",
-    "Publication": []
-  },
-  "Image": "",
-  "Services": [],
-  "References": [],
-  "CollectionGroup": "",
-  "Process": {
-    "Name": "",
-    "JsonForm": "",
-    "VegaDefinition": "",
-    "EndPoints": [
-      {
-        "Identifier": "",
-        "Url": "",
-        "Type": "application/geo+json",
-        "EndPoint": "",
-        "Method": "GET",
-        "Body": "",
-        "Flatstyle": ""
-      }
-    ]
-  },
-  "Subtitle": "",
-  "ShortDescription": "",
-  "BaseLayers": [],
-  "OverlayLayers": [],
-  "MapProjection": {
-    "name": "",
-    "def": "",
-    "extent": [
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  "Colorlegend": {
-    "title": "",
-    "range": [],
-    "domain": [],
-    "tickFormat": "",
-    "tickValues": [],
-    "scaleType": "continuous",
-    "markType": "rect"
-  },
-  "Legend": "",
-  "Disable": [],
-  "Hidden": [],
-  "Collections": []
+  "Name": "COMP_impreviousness_ind",
+  "Title": "Imperviousness and UHI",
+  "Description": "The relationship between the Urban Heat Island (UHI) effect and imperviousness is one of the most direct and well-established links in urban climate studies. Impervious surfaces—such as concrete, asphalt, paving, and building roofs—absorb large amounts of solar radiation during the day and release it slowly at night, leading to elevated land surface temperatures. Areas with high imperviousness typically correspond to the warmest zones in UHI analyses, as these surfaces lack the moisture and vegetation needed to dissipate heat through evaporation or shading. \n\nIn contrast, areas with low imperviousness, which include vegetated spaces, permeable soils, and natural land cover, remain significantly cooler. These surfaces promote evapotranspiration and allow heat to diffuse more effectively, reducing local temperature extremes. As a result, spatial patterns of imperviousness closely mirror the intensity and distribution of the UHI effect, underscoring the importance of managing surface materials and increasing green infrastructure to mitigate urban warming.",
+  "Themes": [
+    "sustainable-cities"
+  ],
+  "Tags": [
+    "Heat Island"
+  ],
+  "Agency": [
+    "ESA"
+  ],
+  "CollectionGroup": "Land Cover",
+  "Collections": [
+    "COMP5",
+    "COMP_imperviousness"
+  ]
 }
