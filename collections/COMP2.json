@@ -1,6 +1,6 @@
 {
   "Name": "COMP2",
-  "Title": "UHI and land cover relationship",
+  "Title": "[Deprecated] UHI and land cover relationship",
   "CollectionGroup": "Land Cover",
   "Themes": [
     "sustainable-cities"
@@ -29,8 +29,17 @@
   ],
   "Colorlegend": {
     "title": "Mean UHI (low/medium/high)",
-    "range": ["rgb(0, 0, 4)", "rgb(81, 18, 124, 0)","rgb(183, 55, 121)","rgb(252, 137, 97)", "rgb(252, 253, 191)"],
-    "domain": [-1, 1]
+    "range": [
+      "rgb(0, 0, 4)",
+      "rgb(81, 18, 124, 0)",
+      "rgb(183, 55, 121)",
+      "rgb(252, 137, 97)",
+      "rgb(252, 253, 191)"
+    ],
+    "domain": [
+      -1,
+      1
+    ]
   },
   "Agency": [
     "ESA"
