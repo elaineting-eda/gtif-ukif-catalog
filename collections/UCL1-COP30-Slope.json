@@ -18,10 +18,35 @@
       "ColormapName": "viridis",
       "Assets": [
         "asset"
+      ],
+      "Rescale": [
+        0,
+        20
       ]
     }
   ],
   "Agency": [
     "ESA"
-  ]
+  ],
+  "Colorlegend": {
+    "domain": [
+      0,
+      20
+    ],
+    "range": [
+      "#440154",
+      "#472777",
+      "#3d4a89",
+      "#30678d",
+      "#25828e",
+      "#1e9d88",
+      "#35b778",
+      "#6bcd59",
+      "#b5dd2b",
+      "#fde724"
+    ],
+    "scaleType": "continuous",
+    "tickFormat": ".1f",
+    "title": "Placeholder"
+  }
 }
