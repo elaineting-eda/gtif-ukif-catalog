@@ -1,0 +1,27 @@
+{
+  "Name": "UCL1-COP30-Slope",
+  "Title": "COP30 Slope",
+  "CollectionGroup": "Other",
+  "Description": "",
+  "Themes": [
+    "energy-transition"
+  ],
+  "Tags": [
+    "Solar Rural Power"
+  ],
+  "Resources": [
+    {
+      "Name": "VEDA",
+      "EndPoint": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/stac/",
+      "Type": "tiles",
+      "CollectionId": "UCL1-COP-30-slope",
+      "ColormapName": "viridis",
+      "Assets": [
+        "asset"
+      ]
+    }
+  ],
+  "Agency": [
+    "ESA"
+  ]
+}
