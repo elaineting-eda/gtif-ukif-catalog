@@ -12,15 +12,20 @@
     "ESA"
   ],
   "CollectionGroup": "Land Surface Temperature",
-  "MapProjection": {
-    "name": ""
-  },
   "Resources": [
     {
       "Name": "VEDA",
       "EndPoint": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/stac/",
       "Type": "tiles",
-      "CollectionId": "COMP-Mean-LST-2022-2024-Summer"
+      "CollectionId": "COMP-Mean-LST-2022-2024-Summer",
+      "ColormapName": "turbo",
+      "Assets": [
+        "asset"
+      ],
+      "Rescale": [
+        0,
+        56
+      ]      
     }
   ]
 }
