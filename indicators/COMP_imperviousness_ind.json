@@ -1,0 +1,71 @@
+{
+  "Name": "",
+  "Title": "",
+  "Description": "",
+  "Themes": [],
+  "Tags": [],
+  "DataSource": {
+    "Spaceborne": {
+      "Satellite": [],
+      "Sensor": []
+    },
+    "InSitu": [],
+    "Other": []
+  },
+  "Agency": [],
+  "License": "",
+  "Provider": [],
+  "Stories": [],
+  "Citation": {
+    "DOI": "",
+    "Citation": "",
+    "Publication": []
+  },
+  "Image": "",
+  "Services": [],
+  "References": [],
+  "CollectionGroup": "",
+  "Process": {
+    "Name": "",
+    "JsonForm": "",
+    "VegaDefinition": "",
+    "EndPoints": [
+      {
+        "Identifier": "",
+        "Url": "",
+        "Type": "application/geo+json",
+        "EndPoint": "",
+        "Method": "GET",
+        "Body": "",
+        "Flatstyle": ""
+      }
+    ]
+  },
+  "Subtitle": "",
+  "ShortDescription": "",
+  "BaseLayers": [],
+  "OverlayLayers": [],
+  "MapProjection": {
+    "name": "",
+    "def": "",
+    "extent": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Colorlegend": {
+    "title": "",
+    "range": [],
+    "domain": [],
+    "tickFormat": "",
+    "tickValues": [],
+    "scaleType": "continuous",
+    "markType": "rect"
+  },
+  "Legend": "",
+  "Disable": [],
+  "Hidden": [],
+  "Collections": []
+}
