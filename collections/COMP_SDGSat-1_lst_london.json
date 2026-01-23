@@ -47,6 +47,6 @@
     ],
     "scaleType": "continuous",
     "tickFormat": ".1f",
-    "title": "Placeholder"
+    "title": "LST"
   }
 }
