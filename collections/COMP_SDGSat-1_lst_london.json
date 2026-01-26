@@ -1,0 +1,52 @@
+{
+  "Name": "COMP_SDGSat-1_lst_london",
+  "Title": "SDGSat-1 LST - London",
+  "Description": "A 30-metre land surface temperature (LST) map of London derived from SDGSAT-1 thermal imagery provides highly detailed thermal patterns across the city, resolving differences between streets, rooftops, parks, and industrial sites at neighbourhood scale. SDGSAT-1\u2019s Thermal Infrared Spectrometer (TIS) offers three thermal bands at ~30 m resolution, enabling LST products with much finer spatial detail than many previous spaceborne thermal sensors.  \n\n With that resolution, the map can reveal fine-scale urban hotspots \u2014 warm road corridors, dense built-up blocks, and heat-emitting industrial areas \u2014 alongside cooler patches where parks, tree canopies, and water bodies reduce surface temperatures. Studies and algorithm tests for SDGSAT-1 show that 30 m TIR data improve detection of industrial heat sources and support robust LST retrievals when appropriate atmospheric correction and emissivity methods are applied.",
+  "Themes": [
+    "sustainable-cities"
+  ],
+  "Tags": [
+    "Land Surface Temperature"
+  ],
+  "Agency": [
+    "ESA"
+  ],
+  "CollectionGroup": "Land Surface Temperature",
+  "Resources": [
+    {
+      "Name": "VEDA",
+      "EndPoint": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/stac/",
+      "Type": "tiles",
+      "CollectionId": "COMP-SDGSat-1-LST-London",
+      "ColormapName": "turbo",
+      "Assets": [
+        "asset"
+      ],
+      "Rescale": [
+        10,
+        34
+      ]
+    }
+  ],
+  "Colorlegend": {
+    "domain": [
+      10,
+      34
+    ],
+    "range": [
+      "#30123b",
+      "#4560d6",
+      "#34aaf8",
+      "#1ae4b6",
+      "#71fd5f",
+      "#c8ee33",
+      "#f9ba38",
+      "#f66b18",
+      "#c92903",
+      "#7a0402"
+    ],
+    "scaleType": "continuous",
+    "tickFormat": ".1f",
+    "title": "LST"
+  }
+}
