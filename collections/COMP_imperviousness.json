@@ -18,7 +18,7 @@
       "EndPoint": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/stac/",
       "Type": "tiles",
       "CollectionId": "COMP-Imperviousness",
-      "ColormapName": "reds",
+      "ColormapName": "gray_r",
       "Assets": [
         "asset"
       ],
@@ -34,16 +34,16 @@
       100
     ],
     "range": [
-      "#fff5f0",
-      "#fee2d5",
-      "#fcc2ab",
-      "#fc9f81",
-      "#fb7c5c",
-      "#f5543c",
-      "#e32f27",
-      "#c2161b",
-      "#9d0d14",
-      "#67000c"
+      "#ffffff",
+      "#e3e3e3",
+      "#c6c6c6",
+      "#aaaaaa",
+      "#8e8e8e",
+      "#717171",
+      "#555555",
+      "#383838",
+      "#1c1c1c",
+      "#000000"
     ],
     "scaleType": "continuous",
     "tickFormat": ".1f",
