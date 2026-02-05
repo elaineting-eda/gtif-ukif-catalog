@@ -12,10 +12,18 @@
   "Resources": [
     {
       "EndPoint": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/stac/",
-      "Name": "Sentinel Hub",
-      "Type": "byoc",
+      "Name": "VEDA",
+      "Type": "tiles",
       "CollectionId": "COMP5",
-      "LayerId": ""
+      "ColormapName": "rdbu_r",
+      "Rescale": [
+        -1,
+        1
+      ],
+      "NoData": 0,
+      "Assets": [
+        "asset"
+      ]
     }
   ],
   "Colorlegend": {
