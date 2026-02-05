@@ -12,18 +12,10 @@
   "Resources": [
     {
       "EndPoint": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/stac/",
-      "Name": "VEDA",
-      "Type": "tiles",
+      "Name": "Sentinel Hub",
+      "Type": "byoc",
       "CollectionId": "COMP5",
-      "ColormapName": "rdbu_r",
-      "Rescale": [
-        -1,
-        1
-      ],
-      "NoData": 0,
-      "Assets": [
-        "asset"
-      ]
+      "LayerId": ""
     }
   ],
   "Colorlegend": {
@@ -31,12 +23,30 @@
       -1,
       1
     ],
-    "range": ["#053061", "#246aae", "#559ec9", "#a7cfe4", "#e1ecf3", "#fae7db", "#f7b698", "#dd7059", "#b51f2e", "#67001f"],
+    "range": [
+      "#053061",
+      "#246aae",
+      "#559ec9",
+      "#a7cfe4",
+      "#e1ecf3",
+      "#fae7db",
+      "#f7b698",
+      "#dd7059",
+      "#b51f2e",
+      "#67001f"
+    ],
     "scaleType": "continuous",
     "tickFormat": ".1f",
     "title": "[°C]"
   },
   "Agency": [
     "ESA"
+  ],
+  "BaseLayers": [
+    {
+      "id": "",
+      "url": "",
+      "protocol": "xyz"
+    }
   ]
 }
