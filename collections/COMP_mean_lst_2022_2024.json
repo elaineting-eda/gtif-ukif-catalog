@@ -14,11 +14,18 @@
   "CollectionGroup": "Land Surface Temperature",
   "Resources": [
     {
-      "Name": "Sentinel Hub",
+      "Name": "VEDA",
       "EndPoint": "https://eoapi.workspace.gtif-ukif.hub-otc.eox.at/stac/",
-      "Type": "byoc",
+      "Type": "tiles",
       "CollectionId": "COMP-Mean-LST-2022-2024-Summer",
-      "LayerId": ""
+      "ColormapName": "turbo",
+      "Assets": [
+        "asset"
+      ],
+      "Rescale": [
+        0,
+        56
+      ]      
     }
   ],
   "Colorlegend": {
